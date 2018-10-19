@@ -5,7 +5,7 @@ This movie trailer website project consists of simple code that stores a list of
 ## How To Get Started
 
 * Install [Python](https://www.python.org/downloads/) 
-* Clone this repository
+* Clone this repository : https://github.com/swatisuman0690/my-movie-trailer-website
 * Open IDLE
 * Navigate to the project directory and run the script ` entertainment_centre.py `
 

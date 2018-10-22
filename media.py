@@ -1,7 +1,7 @@
 import webbrowser
 
 class Movie():
-     """ This class stores movie information"""
+     """ This class stores movie information such as title, poster image, youtube trailer """
      # class constructor
      def __init__(
          self, movie_title,

@@ -1,6 +1,7 @@
 import webbrowser
 
 class Movie():
+     """ This class stores movie information"""
      # class constructor
      def __init__(
          self, movie_title,
